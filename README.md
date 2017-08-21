@@ -1,24 +1,10 @@
-# README
+# Science Depot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutoring Section:
 
-Things you may want to cover:
+- Physics
 
-* Ruby version
+- Sci 25
 
-* System dependencies
+- Computer Programming
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
